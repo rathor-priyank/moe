@@ -19,21 +19,3 @@ MoEfication is a model compression technique that transforms a standard **dense*
 ## Architecture Diagrams
 
 
-# [ Input Token ]
-#             |
-#             v
-#      +--------------+
-#      |    Router    |---- (Calculates Top-K Scores)
-#      +--------------+
-#             |
-#      _______|_______________________________
-#     |               |               |       |
-# [Expert 1]      [Expert 2]      [Expert 3] ... [Expert 64]
-# (ACTIVE)        (ACTIVE)        (INACTIVE)     (INACTIVE)
-#     |               |               |               |
-#     |_______________|_______________|_______________|
-#             |
-#             v
-#      [ Output Vector ] ---- (Combined & Scaled)
-
-### Routing & Expert Activation
