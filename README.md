@@ -19,10 +19,13 @@ MoEfication is a model compression technique that transforms a standard **dense*
 ## Architecture Diagrams
 
 1. **Overall Flow :** 
-<img src="Overall_flow.png" width="400" alt="Architecture diagram">
+<img src="Overall_flow.png" width="400">
 
 2. **Per Layer Flow :**
-<img src="Per_Layer_Flow.png" width="400" alt="Architecture diagram">
+<img src="Per_Layer_Flow.png" width="400">
+
+3. Representation
+<img src="Image.png" width="400">
 
 ## Scores
 
