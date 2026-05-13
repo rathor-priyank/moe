@@ -28,5 +28,5 @@ MoEfication is a model compression technique that transforms a standard **dense*
 <img src="Image.png" width="400">
 
 ## Scores
-
+[View Document](https://docs.google.com/document/d/1XYLRpa69wkEDARYZYGJJiDaS6OXN2QibvibYcjl68UA/edit?tab=t.7qi8imcs6bxk)
 [View Google Sheet](https://docs.google.com/spreadsheets/d/15k1_ukLyWW5MoknUX4lCaKI6r8yznCTJoLJNOctaRIQ/edit?usp=sharing)
